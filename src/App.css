@@ -1,0 +1,17 @@
+.App{
+    background-color: rgb(161, 160, 160);
+}
+.Cardcontainer{
+    display: flex;
+    margin: 2rem 5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Cardcontainer .card{
+    margin: 1rem 1rem;
+}
+.inputform{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
