@@ -6,6 +6,7 @@
     margin: 2rem 5rem;
     flex-wrap: wrap;
     justify-content: center;
+    min-height: 100vh;
 }
 .Cardcontainer .card{
     margin: 1rem 1rem;
@@ -14,4 +15,7 @@
     width: 100%;
     display: flex;
     justify-content: center;
+}
+Card .Text{
+
 }
